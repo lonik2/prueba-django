@@ -1,1 +1,1 @@
-# prueba-django
+Este proyecto coinsiste en un tutoria de django en el qeu hicimos las primeras 8 partes y en un cuestionario para sabe mas sobre este framework.
